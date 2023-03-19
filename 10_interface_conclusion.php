@@ -18,4 +18,18 @@ class Admin implements Person{
 }
 $admin = new Admin('Luis');
 echo $admin->getName();
+
+/**
+ * Programacion orientada a objetos es la tecnica
+ * php es el lenguaje de programacion donde implementamos la tecnica
+ * 
+ * podemos resumir los diferentes conceptos de la siguiente manera
+ * 
+ * Herencia
+ * Abstraccion
+ * Polimorfismo
+ * Modularidad
+ * Encapsulamiento
+ * 
+ */
 ?>
